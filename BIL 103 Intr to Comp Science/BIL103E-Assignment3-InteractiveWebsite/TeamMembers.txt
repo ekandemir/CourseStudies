@@ -1,0 +1,4 @@
+Team Name: Game of Bottles
+Address: kandemire1_itu2016.pythonanywhere.com
+Member 1: Erdinç Kandemir 150150110
+Member 2: Mustafa Gürkan Kul 150150040
